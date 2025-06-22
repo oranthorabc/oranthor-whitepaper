@@ -6,7 +6,7 @@ Welcome to the official repository of Oranthor – a decentralized finance proto
 
 ## 📄 Whitepaper
 
-- [📥 Download Whitepaper PDF (v1.0)](./Oranthor-Whitepaper-V1.0.pdf)
+- [📥 Download Whitepaper PDF (v1.0)](./oranthor-whitepaper.pdf)
 
 ## 🔗 Website
 
